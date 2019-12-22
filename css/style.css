@@ -29,6 +29,11 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
+
 #largeImg img{
   border: 5px rgb(152,173,166) solid;
 }
