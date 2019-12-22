@@ -27,6 +27,6 @@ header h1{
   border-bottom: 1px solid #ccc;
 }
 
-#largeImg {
+#largeImg img{
   border: 5px rgb(152,173,166) solid;
 }
