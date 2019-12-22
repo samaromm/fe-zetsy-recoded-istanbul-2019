@@ -43,3 +43,10 @@ h2 {
     font-size: 2em;
 }
 
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
+a {
+    background: transparent;
+}
